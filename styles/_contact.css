@@ -1,0 +1,21 @@
+.centerform {
+  display: flex;
+  flex-direction: column;
+  background-color: lightgrey; }
+  .centerform label {
+    padding: 20px;
+    margin-left: 20%; }
+  .centerform input {
+    width: 70%; }
+
+span {
+  dispay: inline-block;
+  color: red; }
+
+@media only screen and (min-width: 60em) {
+  .centerform {
+    width: 40%;
+    margin-left: 30%;
+    margin-right: 30%; } }
+
+/*# sourceMappingURL=_contact.css.map */

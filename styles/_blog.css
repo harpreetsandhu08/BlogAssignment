@@ -1,0 +1,19 @@
+h1 {
+  font-size: 1.5em;
+  color: maroon; }
+
+.post, .post2 {
+  font-size: 1.2em;
+  padding: 5px;
+  margin: 20px;
+  background-color: lightgrey;
+  line-height: 1.5em; }
+
+@media only screen and (min-width: 65em) {
+  .post, .post2 {
+    font-size: 1.5em;
+    line-height: 1.5em;
+    width: 80%;
+    margin: 100px 150px 100px 150px; } }
+
+/*# sourceMappingURL=_blog.css.map */
