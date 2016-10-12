@@ -1,5 +1,7 @@
-*.css
+*.scss
 *.css.map
+partials/*.scss
+
 ###SublimeText###
 
 # cache files for sublime text
